@@ -1,2 +1,2 @@
-"#DIW_T03_P02" 
-"P�gina web en construcci�n" 
+"#DIW_T03_P02"
+Página web en construcción - Versión 1
